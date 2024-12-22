@@ -20,22 +20,22 @@
 "                                                    
 "     Action (Insert mode)                           Key mappings
 "     =======================================================
-"     Move to a string (transl. or untransl) forward      ,m
-"     Move to a string (transl. or untransl) backward     ,M
-"     Begain to comment this entry                        ,C
-"     Move to an untransl. string forward                 ,u
-"     Move to an untransl. string backward                ,U
-"     Copy the msgid string to msgstr                     ,c
-"     Delete the msgstr string                            ,d
-"     Move to the next fuzzy translation                  ,f
-"     Move to the previous fuzzy translation              ,F
-"     Label the translation fuzzy                         ,Z
-"     Remove the fuzzy label                              ,z
-"     Show msgfmt statistics for the file(*)              ,s
-"     Browse through msgfmt errors for the file(*)        ,e
-"     Put the translator info in the header               ,t
-"     Put the lang. team info in the header               ,l
-"     Format the whole file(wrap the lines etc.)          ,W
+"     Move to a string (transl. or untransl) forward      ;m
+"     Move to a string (transl. or untransl) backward     ;M
+"     Begain to comment this entry                        ;C
+"     Move to an untransl. string forward                 ;u
+"     Move to an untransl. string backward                ;U
+"     Copy the msgid string to msgstr                     ;c
+"     Delete the msgstr string                            ;d
+"     Move to the next fuzzy translation                  ;f
+"     Move to the previous fuzzy translation              ;F
+"     Label the translation fuzzy                         ;Z
+"     Remove the fuzzy label                              ;z
+"     Show msgfmt statistics for the file(*)              ;s
+"     Browse through msgfmt errors for the file(*)        ;e
+"     Put the translator info in the header               ;t
+"     Put the lang. team info in the header               ;l
+"     Format the whole file(wrap the lines etc.)          ;W
 "     -------------------------------------------------------
 "     (*) Only available on UNIX computers.
 "
@@ -43,21 +43,21 @@
 "                                                      
 "     Action (Normal mode)                           Key mappings
 "     =======================================================
-"     Move to a string (transl. or untransl) forward      ,m
-"     Move to a string (transl. or untransl) backward     ,M
-"     Begain to comment this entry                        ,C
-"     Move to an untransl. string forward                 ,u
-"     Move to an untransl. string backward                ,U
-"     Move to the next fuzzy translation                  ,f
-"     Move to the previous fuzzy translation              ,F
-"     Label the translation fuzzy                         ,Z
-"     Remove the fuzzy label                              ,z
+"     Move to a string (transl. or untransl) forward      ;m
+"     Move to a string (transl. or untransl) backward     ;M
+"     Begain to comment this entry                        ;C
+"     Move to an untransl. string forward                 ;u
+"     Move to an untransl. string backward                ;U
+"     Move to the next fuzzy translation                  ;f
+"     Move to the previous fuzzy translation              ;F
+"     Label the translation fuzzy                         ;Z
+"     Remove the fuzzy label                              ;z
 "     Split-open the file under cursor                    gf
-"     Show msgfmt statistics for the file(*)              ,s
-"     Browse through msgfmt errors for the file(*)        ,e
-"     Put the translator info in the header               ,t
-"     Put the lang. team info in the header               ,l
-"     Format the whole file(wrap the lines etc.)          ,W
+"     Show msgfmt statistics for the file(*)              ;s
+"     Browse through msgfmt errors for the file(*)        ;e
+"     Put the translator info in the header               ;t
+"     Put the lang. team info in the header               ;l
+"     Format the whole file(wrap the lines etc.)          ;W
 "     -------------------------------------------------------
 "     (*) Only available on UNIX computers.
 "
